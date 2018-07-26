@@ -1,15 +1,12 @@
 
 <html>
 <div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-			<div id="siteNotice" class="mw-body-content"><div id="centralNotice"></div><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
-<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected due to vandalism"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" data-file-width="128" data-file-height="128"></a></div>
-</div>
-<h1 id="firstHeading" class="firstHeading" lang="en">Brazil</h1>			<div id="bodyContent" class="mw-body-content">
-				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+
+<h1 id="firstHeading" class="firstHeading" lang="en">AInziada</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">UAGWPedia</div>				<div id="contentSub"></div>
 				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 				<a class="mw-jump-link" href="#p-search">Jump to search</a>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the country. For other uses, see <a href="/wiki/Brazil_(disambiguation)" class="mw-disambig" title="Brazil (disambiguation)">Brazil (disambiguation)</a>.</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the country. For other uses, see <a href="/wiki/Brazil_(disambiguation)" class="mw-disambig" title="easteregg">easteregg lel</a>.</div>
 <p>
 
 
