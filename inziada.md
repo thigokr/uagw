@@ -2,7 +2,7 @@
 <html>
 <div id="content" class="mw-body" role="main">
 
-<h1 id="firstHeading" class="firstHeading" lang="en">AInziada</h1>			<div id="bodyContent" class="mw-body-content">
+<h1 id="firstHeading" class="firstHeading" lang="en">Inziada</h1>			<div id="bodyContent" class="mw-body-content">
 				<div id="siteSub" class="noprint">UAGWPedia</div>				<div id="contentSub"></div>
 				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 				<a class="mw-jump-link" href="#p-search">Jump to search</a>
@@ -15,8 +15,8 @@
 <table class="infobox geography vcard" style="width:22em;font-size:88%;"><tbody><tr><th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Federative Republic of Brazil</span><br><div style="padding-top:0.25em;"><i><span lang="pt" title="Portuguese language text">República Federativa do Brasil</span></i>&nbsp;&nbsp;<span class="languageicon" style="font-size:70%;font-weight:normal;">(<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span></div></th></tr><tr><td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
 <div style="display:table; width:100%;">
         <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;">
-            <div style="padding-bottom:3px;"><a href="/wiki/File:Flag_of_Brazil.svg" class="image" title="Flag of Brazil"><img alt="Flag of Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png" width="125" height="88" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/188px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504"></a></div>
-            <div style="font-size:90%;"><a href="/wiki/Flag_of_Brazil" title="Flag of Brazil">Flag</a></div>
+            <div style="padding-bottom:3px;"><a href="/88E7D20E-C354-4446-85DA-FD8492371B99.jpeg" class="image" title="Flag of Brazil"><img alt="Flag of Brazil" src="//88E7D20E-C354-4446-85DA-FD8492371B99.jpeg" width="125" height="88" class="thumbborder" srcset="//88E7D20E-C354-4446-85DA-FD8492371B99.jpeg 1.5x, //88E7D20E-C354-4446-85DA-FD8492371B99.jpeg 2x" data-file-width="720" data-file-height="504"></a></div>
+            <div style="font-size:90%;"><a href="/wiki/Flag_of_Brazil" title="Flag of Inziada">Flag</a></div>
         </div>
         <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;">
             <div style="padding-bottom:3px;"><a href="/wiki/File:Coat_of_arms_of_Brazil.svg" class="image" title="Coat of arms of Brazil"><img alt="Coat of arms of Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png" width="85" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/128px-Coat_of_arms_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/170px-Coat_of_arms_of_Brazil.svg.png 2x" data-file-width="395" data-file-height="396"></a></div>
